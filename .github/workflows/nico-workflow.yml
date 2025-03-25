@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Atualiza diariamente (ajuste o cron se necessário)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v2
+
+      - name: Gerar a animação
+        uses: Platane/snk@v2
+        with:
+          github_user_name: seu-usuario
+          outputs: dist/github-snake.svg
+
+      - name: Fazer deploy no GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
