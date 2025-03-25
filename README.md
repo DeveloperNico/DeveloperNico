@@ -37,7 +37,7 @@
 <div style="display: inline-block"><br/>
    
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://DevelpoerNico.github.io/seu-repositorio/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://DeveloperNico.github.io/seu-repositorio/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://DevelpoerNico.github.io/DeveloperNico/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://DeveloperNico.github.io/DeveloperNico/github-snake.svg" />
   <img alt="Snake animation" src="https://seu-usuario.github.io/seu-repositorio/github-snake.svg" />
 </picture>
