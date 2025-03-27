@@ -19,7 +19,7 @@
    <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<div style="display: inline-block"><br/>
+</div>
 
 ## Tecnologias de back-end que eu uso! 🤓
 
@@ -27,17 +27,19 @@
    <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<div style="display: inline-block"><br/>
+</div>
 
 ## Ferramentas para prototipação que eu uso! 
 
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
    <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-<div style="display: inline-block"><br/>
-   
+</div>
+
+### 🐍 Minha cobrinha dos commits:
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://DevelpoerNico.github.io/DeveloperNico/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://DeveloperNico.github.io/DeveloperNico/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://DeveloperNico.github.io/DeveloperNico/github-snake.svg" />
-  <img alt="Snake animation" src="https://seu-usuario.github.io/seu-repositorio/github-snake.svg" />
+  <img alt="Snake animation" src="https://DeveloperNico.github.io/DeveloperNico/github-snake.svg" />
 </picture>
