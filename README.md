@@ -35,11 +35,3 @@
    <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
    <img align="center" alt="Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
-
-### 🐍 Minha cobrinha dos commits:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://DeveloperNico.github.io/DeveloperNico/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://DeveloperNico.github.io/DeveloperNico/github-snake.svg" />
-  <img alt="Snake animation" src="https://DeveloperNico.github.io/DeveloperNico/github-snake.svg" />
-</picture>
