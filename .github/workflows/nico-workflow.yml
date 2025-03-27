@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Atualiza diariamente (ajuste o cron se necessário)
+    - cron: "0 0 * * *" # Atualiza diariamente
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
       - name: Gerar a animação
         uses: Platane/snk@v2
         with:
-          github_user_name: seu-usuario
+          github_user_name: DeveloperNico
           outputs: dist/github-snake.svg
 
       - name: Fazer deploy no GitHub Pages
