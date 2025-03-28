@@ -9,7 +9,8 @@
 
 <br>
 
-![Nico GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperNico&show_icons=true&theme=dark)
+![Nico GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperNico&show_icons=true&theme=dark&width=400&&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperNico&layout=compact&theme=dark&width=400)
 
 <br>
 
